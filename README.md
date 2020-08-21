@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently working on
+BOSPortal - A Work Order Tracking, General information, and Rental/Service schedualing tool to move Bobcat of Salina into the age of technology.
+BroPro - Personal Site/Blog
 
 <!--
 **Vahalaru/Vahalaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
